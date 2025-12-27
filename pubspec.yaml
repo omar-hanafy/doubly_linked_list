@@ -1,14 +1,17 @@
 name: doubly_linked_list
 description: A non-intrusive doubly linked list with O(1) removals/insertions. Ideal for LRU caches, queues, and frequent mid-list modifications.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/omar-hanafy/doubly_linked_list
+homepage: https://github.com/omar-hanafy/doubly_linked_list
+
+topics:
+  - data-structures
+  - linked-list
+  - collections
+  - lru-cache
 
 environment:
-  sdk: ^3.10.4
-
-# Add regular dependencies here.
-dependencies:
-  # path: ^1.9.0
+  sdk: ^3.0.0
 
 dev_dependencies:
   lints: ^6.0.0

@@ -759,8 +759,8 @@ class DoublyLinkedList<E> extends ListBase<E> {
 
 final class _DoublyLinkedListIterator<E> implements Iterator<E> {
   _DoublyLinkedListIterator(this._list)
-    : _expectedModCount = _list._modCount,
-      _next = _list._head;
+      : _expectedModCount = _list._modCount,
+        _next = _list._head;
 
   final DoublyLinkedList<E> _list;
   final int _expectedModCount;

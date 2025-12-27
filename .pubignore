@@ -1,0 +1,8 @@
+# IDE files
+.idea/
+
+# Firebase debug logs
+firebase-debug.log
+
+# Mac system files
+.DS_Store
