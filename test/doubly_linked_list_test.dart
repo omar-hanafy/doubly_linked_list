@@ -757,7 +757,8 @@ void main() {
   });
 
   group('Ownership - cross-list corruption prevention', () {
-    test('node from another list cannot be unlinked/inserted/moved/swapped', () {
+    test('node from another list cannot be unlinked/inserted/moved/swapped',
+        () {
       final a = DoublyLinkedList<int>([1, 2, 3]);
       final b = DoublyLinkedList<int>([10, 20]);
 
