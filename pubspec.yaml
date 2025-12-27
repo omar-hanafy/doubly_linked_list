@@ -1,6 +1,6 @@
 name: doubly_linked_list
 description: A non-intrusive doubly linked list with O(1) removals/insertions. Ideal for LRU caches, queues, and frequent mid-list modifications.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/omar-hanafy/doubly_linked_list
 homepage: https://github.com/omar-hanafy/doubly_linked_list
 

@@ -1,3 +1,8 @@
+## 1.0.1
+
+- Repository automation and CI/CD workflows.
+- No API or behavior changes.
+
 ## 1.0.0
 
 - Initial stable release.

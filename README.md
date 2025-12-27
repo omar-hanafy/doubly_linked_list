@@ -157,7 +157,7 @@ list2.unlink(node);  // Throws! Node doesn't belong to list2.
 
 ```yaml
 dependencies:
-  doubly_linked_list: ^1.0.0
+  doubly_linked_list: ^1.0.1
 ```
 
 ## License
